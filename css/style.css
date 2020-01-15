@@ -11,6 +11,7 @@ section {
 }
 
 :root {
+     /* create variables */
     --Snigle-font:"Sniglet", cursive;
     --Rubik:"Rubik", cursive;
     --Patua:"Patua One", cursive;
