@@ -347,3 +347,16 @@ footer .column i {
     padding: 0 0.3em;
 }
 
+/* sticky class */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.815);
+    z-index: 9999;
+    transition: all 1.5s ease;
+}
+
+
+
+
